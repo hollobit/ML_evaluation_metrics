@@ -9,12 +9,12 @@ The purpose of this repository is providing the curated list of the state-of-the
 * [4. Segmentation](#4-segmentation)
 * [5. Deep Generative Model](#5-Deep-Generative-Model)
 * [6. Detection](#6-detection)
-* 7. Regression Metrics 
-* 8. Ranking Metrics 
-* 9. Statistical Metrics 
-* 10. Computer Vision Metrics 
-* 11. NLP Metrics 
-* 12. Deep Learning Related Metrics 
+* [7. Regression Metrics]()
+* [8. Ranking Metrics]()
+* [9. Statistical Metrics]()
+* [10. Computer Vision Metrics]()
+* [11. NLP Metrics]()
+* [12. Deep Learning Related Metrics]()
 * [13. Super resolution](#13-super-resolution)
 * [Appendix : Bias](#appendix--bias)
 
