@@ -16,7 +16,7 @@ The purpose of this repository is providing the curated list of the state-of-the
 * NLP Metrics 
 * Deep Learning Related Metrics 
 * [Super resolution](#super-resolution)
-* [Appendix : Bias](#appendix-:-bias)
+* [Appendix : Bias](#appendix-bias)
 
 ----
 ## General
