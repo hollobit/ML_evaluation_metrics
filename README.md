@@ -50,7 +50,7 @@ G Jurman, S Riccadonna, C Furlanello - PloS one, 2012 - journals.plos.org - ([Sc
 1. [HTML] [Metrics for evaluating 3D medical image segmentation: analysis, selection, and tool  (687)](https://link.springer.com/article/10.1186/s12880-015-0068-x)
 AA Taha, A Hanbury - BMC medical imaging, 2015 - Springer - ([Scholar](https://scholar.google.com/scholar?cites=4630956683170237829&as_sdt=2005&sciodt=0,5&hl=de))
  
-+ [3차원 의료 영상 분할 평가 지표에 관한 고찰](https://www.ksiim.org/api/society/journal/download/292/3%20ksiim%20%EA%B9%80%EC%9E%A5%EC%9A%B0.pdf), 김장우, 김종효 - Review of Evaluation Metrics for 3D Medical Image Segmentation, 대한의학영상정보학회지 2017년 23권 1호 p.14 ~ 20
+++ 1. [3차원 의료 영상 분할 평가 지표에 관한 고찰](https://www.ksiim.org/api/society/journal/download/292/3%20ksiim%20%EA%B9%80%EC%9E%A5%EC%9A%B0.pdf), 김장우, 김종효 - Review of Evaluation Metrics for 3D Medical Image Segmentation, 대한의학영상정보학회지 2017년 23권 1호 p.14 ~ 20
 
 1. [A review of recent evaluation methods for image segmentation](https://link.springer.com/article/10.1186/s12880-015-0068-x)
 YJ Zhang - Proceedings of the Sixth International Symposium …, 2001 - ieeexplore.ieee.org - ([Scholar](https://scholar.google.com/scholar?cites=17997590944828043042&as_sdt=2005&sciodt=0,5&hl=de))
