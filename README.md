@@ -3,8 +3,8 @@
 The purpose of this repository is providing the curated list of the state-of-the-art works on the field of ML evaluation metrics.
 
 ## Contents
-* [Advice and guidance](#advice-and-guidance)
-* [Associations](#associations)
+* [General](#1._General)
+* [Classification](#2._classification)
 
 ----
 ## 1. General
