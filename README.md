@@ -16,7 +16,7 @@ The purpose of this repository is providing the curated list of the state-of-the
 * NLP Metrics 
 * Deep Learning Related Metrics 
 * [Super resolution](#super-resolution)
-* [Appendix : Bias](#appendix:bias)
+* [Appendix : Bias](#appendix--bias)
 
 ----
 ## General
@@ -136,7 +136,7 @@ H Li - IEICE TRANSACTIONS on Information and Systems, 2011 - search.ieice.org - 
 
 ## Deep Learning Related Metrics (Inception score, Frechet Inception distance)
 
-## Super resolution 
+## 13. Super resolution 
 
 1. [Deep learning for image super-resolution: A survey](https://ieeexplore.ieee.org/abstract/document/9044873/?casa_token=O1I0fMwCFjcAAAAA:E_zsRo8dmyPGPwliG73-m8xw_cQG7aFtZzQUxnRKQTwOuhl4ctIJPN0HJWnafeR8eaQ1Ekq33g)
 Z Wang, J Chen, SCH Hoi - IEEE Transactions on Pattern …, 2020 - ieeexplore.ieee.org - ([Scholar](https://scholar.google.com/scholar?cites=6779822096297620420&as_sdt=2005&sciodt=0,5&hl=de))
