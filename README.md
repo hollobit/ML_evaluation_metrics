@@ -5,6 +5,9 @@ The purpose of this repository is providing the curated list of the state-of-the
 ## Contents
 * [General](#General)
 * [Classification](#classification)
+* [Prediction](#prediction)
+* [Segmentation](#segmentation)
+* [Deep Generative Model](#Deep-Generative-Model)
 
 ----
 ## General
@@ -38,12 +41,12 @@ M Hossin, MN Sulaiman - International Journal of Data Mining & …, 2015 - acade
 1. [Evaluation of performance measures for classifiers comparison](https://arxiv.org/abs/1112.4133) 
 V Labatut, H Cherifi - arXiv preprint arXiv:1112.4133, 2011 - arxiv.org - ([Scholar](https://scholar.google.com/scholar?cites=5921964516087018743&as_sdt=2005&sciodt=0,5&hl=de))
 
-## 3. Prediction 
+## Prediction 
 
 1. [A comparison of MCC and CEN error measures in multi-class prediction](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0041882)  
 G Jurman, S Riccadonna, C Furlanello - PloS one, 2012 - journals.plos.org - ([Scholar](https://scholar.google.com/scholar?cites=13133318558297984931&as_sdt=2005&sciodt=0,5&hl=de))
 
-## 4. Segmentation 
+## Segmentation 
 
 1. [http://www.visceral.eu/resources/evaluatesegmentation-software/](http://www.visceral.eu/resources/evaluatesegmentation-software/)
 
@@ -86,7 +89,7 @@ T Heimann, B Van Ginneken, MA Styner… - … on medical imaging, 2009 - ieeexpl
 A Norouzi, MSM Rahim, A Altameem, T Saba… - IETE Technical …, 2014 - Taylor & Francis - ([Scholar](https://scholar.google.com/scholar?cites=7430648071481519071&as_sdt=2005&sciodt=0,5&hl=de))
 
 
-## 5. Deep Generative Model
+## Deep Generative Model
 
 1. [An empirical study on evaluation metrics of generative adversarial networks](https://arxiv.org/abs/1806.07755)
 Q Xu, G Huang, Y Yuan, C Guo, Y Sun, F Wu… - arXiv preprint arXiv …, 2018 - arxiv.org - ([Scholar](https://scholar.google.com/scholar?cites=10986270796266305228&as_sdt=2005&sciodt=0,5&hl=de))
