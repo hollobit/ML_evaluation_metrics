@@ -3,23 +3,23 @@
 The purpose of this repository is providing the curated list of the state-of-the-art works on the field of ML evaluation metrics.
 
 ## Contents
-* [General](#General)
-* [Classification](#classification)
-* [Prediction](#prediction)
-* [Segmentation](#segmentation)
-* [Deep Generative Model](#Deep-Generative-Model)
-* [Detection](#detection)
-* Regression Metrics 
-* Ranking Metrics 
-* Statistical Metrics 
-* Computer Vision Metrics 
-* NLP Metrics 
-* Deep Learning Related Metrics 
-* [Super resolution](#13-super-resolution)
+* [1. General](#1-General)
+* [2. Classification](#2-classification)
+* [3. Prediction](#3-prediction)
+* [4. Segmentation](#4-segmentation)
+* [5. Deep Generative Model](#5-Deep-Generative-Model)
+* [6. Detection](#6-detection)
+* 7. Regression Metrics 
+* 8. Ranking Metrics 
+* 9. Statistical Metrics 
+* 10. Computer Vision Metrics 
+* 11. NLP Metrics 
+* 12. Deep Learning Related Metrics 
+* [13. Super resolution](#13-super-resolution)
 * [Appendix : Bias](#appendix--bias)
 
 ----
-## General
+## 1. General
 
 1. [PDF] [Proben1: A set of neural network benchmark problems and benchmarking rules](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.65.8960&rep=rep1&type=pdf) 
 L Prechelt - 1994 - Citeseer ([Scholar](https://scholar.google.com/scholar?cites=14357553191919784879&as_sdt=2005&sciodt=0,5&hl=de))
@@ -31,7 +31,7 @@ LI Kuncheva - 2014 - books.google.com ([Scholar](https://scholar.google.com/scho
 
 1. [20 Popular Machine Learning Metrics. Part 2: Ranking, & Statistical Metrics](https://towardsdatascience.com/20-popular-machine-learning-metrics-part-2-ranking-statistical-metrics-22c3e5a937b6)
 
-## 1. Classification 
+## 2. Classification 
 (accuracy, precision, recall, F1-score, ROC, AUC, …)
 
 1. [An experimental comparison of performance measures for classification](https://www.sciencedirect.com/science/article/pii/S0167865508002687?casa_token=YQ1dnJNxN9AAAAAA:cxaUyge1WdElPUeIBXmT86LhMpl63dEo4Chc4c7d2BgiM_aPhUC_WfPfb50NXKKfpY0qeipqsA) 
@@ -50,12 +50,12 @@ M Hossin, MN Sulaiman - International Journal of Data Mining & …, 2015 - acade
 1. [Evaluation of performance measures for classifiers comparison](https://arxiv.org/abs/1112.4133) 
 V Labatut, H Cherifi - arXiv preprint arXiv:1112.4133, 2011 - arxiv.org - ([Scholar](https://scholar.google.com/scholar?cites=5921964516087018743&as_sdt=2005&sciodt=0,5&hl=de))
 
-## Prediction 
+## 3. Prediction 
 
 1. [A comparison of MCC and CEN error measures in multi-class prediction](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0041882)  
 G Jurman, S Riccadonna, C Furlanello - PloS one, 2012 - journals.plos.org - ([Scholar](https://scholar.google.com/scholar?cites=13133318558297984931&as_sdt=2005&sciodt=0,5&hl=de))
 
-## Segmentation 
+## 4. Segmentation 
 
 1. [http://www.visceral.eu/resources/evaluatesegmentation-software/](http://www.visceral.eu/resources/evaluatesegmentation-software/)
 
@@ -98,7 +98,7 @@ T Heimann, B Van Ginneken, MA Styner… - … on medical imaging, 2009 - ieeexpl
 A Norouzi, MSM Rahim, A Altameem, T Saba… - IETE Technical …, 2014 - Taylor & Francis - ([Scholar](https://scholar.google.com/scholar?cites=7430648071481519071&as_sdt=2005&sciodt=0,5&hl=de))
 
 
-## Deep Generative Model
+## 5. Deep Generative Model
 
 1. [An empirical study on evaluation metrics of generative adversarial networks](https://arxiv.org/abs/1806.07755)
 Q Xu, G Huang, Y Yuan, C Guo, Y Sun, F Wu… - arXiv preprint arXiv …, 2018 - arxiv.org - ([Scholar](https://scholar.google.com/scholar?cites=10986270796266305228&as_sdt=2005&sciodt=0,5&hl=de))
@@ -112,7 +112,7 @@ MSM Sajjadi, O Bachem, M Lucic… - Advances in Neural …, 2018 - papers.nips.c
 1. [Improved precision and recall metric for assessing generative models](https://papers.nips.cc/paper/8648-improved-precision-and-recall-metric-for-assessing-generative-models)
 T Kynkäänniemi, T Karras, S Laine… - Advances in Neural …, 2019 - papers.nips.cc - ([Scholar](https://scholar.google.com/scholar?cites=16244569923752023320&as_sdt=2005&sciodt=0,5&hl=de))
 
-## Detection
+## 6. Detection
 
 1. [What makes for effective detection proposals?](https://ieeexplore.ieee.org/abstract/document/7182356/?casa_token=V_1Ggtq-EAsAAAAA:F1hEU3W065Ha7wWpAdRbOz91y6kQ1frTpDeOQH1HJ2iZc3QYViVf5YGgsWdw0en7wuUS8yDSBQ)
 J Hosang, R Benenson, P Dollár… - IEEE transactions on …, 2015 - ieeexplore.ieee.org - ([Scholar](https://scholar.google.com/scholar?cites=5569442882727355447&as_sdt=2005&sciodt=0,5&hl=de))
@@ -120,21 +120,21 @@ J Hosang, R Benenson, P Dollár… - IEEE transactions on …, 2015 - ieeexplore
 1. [A survey on performance metrics for object-detection algorithms](https://ieeexplore.ieee.org/abstract/document/9145130/?casa_token=VqCY8j9hd9QAAAAA:xoOXxv1rrUJQ3l0Z5qYcI28ii3AEvQRhcPK8eRGPA_nN-JOgO2FjCn5f16QAWBNOanWcb6nAIA)
 R Padilla, SL Netto, EAB da Silva - … International Conference on …, 2020 - ieeexplore.ieee.org - ([Scholar](https://scholar.google.com/scholar?cites=7658252996672799137&as_sdt=2005&sciodt=0,5&hl=de))
 
-## Regression Metrics (MSE, MAE)
+## 7. Regression Metrics (MSE, MAE)
 
-## Ranking Metrics (MRR, DCG, NDCG)
+## 8. Ranking Metrics (MRR, DCG, NDCG)
 - MRR, Precision@ K, DCG & NDCG, MAP, Kendall’s tau, Spearman’s rho
 
 1. [A short introduction to learning to rank](https://search.ieice.org/bin/summary.php?id=e94-d_10_1854)
 H Li - IEICE TRANSACTIONS on Information and Systems, 2011 - search.ieice.org - ([Scholar](https://scholar.google.com/scholar?cites=4788843565114800534&as_sdt=2005&sciodt=0,5&hl=de))
 
-## Statistical Metrics (Correlation)
+## 9. Statistical Metrics (Correlation)
 
-## Computer Vision Metrics (PSNR, SSIM, IoU)
+## 10. Computer Vision Metrics (PSNR, SSIM, IoU)
 
-## NLP Metrics (Perplexity, BLEU score)
+## 11. NLP Metrics (Perplexity, BLEU score)
 
-## Deep Learning Related Metrics (Inception score, Frechet Inception distance)
+## 12. Deep Learning Related Metrics (Inception score, Frechet Inception distance)
 
 ## 13. Super resolution 
 
