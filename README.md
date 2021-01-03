@@ -57,7 +57,7 @@ M Sokolova, G Lapalme - Information processing & management, 2009 - Elsevier ([S
 ([Semantic](https://www.semanticscholar.org/search?q=A%20systematic%20analysis%20of%20performance%20measures%20for%20classification%20tasks))
 ([Connected](https://www.connectedpapers.com/search?q=A%20systematic%20analysis%20of%20performance%20measures%20for%20classification%20tasks))
 
-1. [PDF] [A review on evaluation metrics for data classification evaluations](http://www.academia.edu/download/37219940/5215ijdkp01.pdf) 
+1. [PDF] [A review on evaluation metrics for data classification evaluations](https://www.researchgate.net/profile/Mohammad_Hossin/publication/275224157_A_Review_on_Evaluation_Metrics_for_Data_Classification_Evaluations/links/57b2c95008ae95f9d8f6154f.pdf) 
 M Hossin, MN Sulaiman - International Journal of Data Mining & …, 2015 - academia.edu ([Scholar](https://scholar.google.com/scholar?cites=12243370002312135267&as_sdt=2005&sciodt=0,5&hl=de))
 ([Semantic](https://www.semanticscholar.org/search?q=A%20review%20on%20evaluation%20metrics%20for%20data%20classification%20evaluations))
 ([Connected](https://www.connectedpapers.com/search?q=A%20review%20on%20evaluation%20metrics%20for%20data%20classification%20evaluations))
