@@ -16,7 +16,7 @@ The purpose of this repository is providing the curated list of the state-of-the
 * NLP Metrics 
 * Deep Learning Related Metrics 
 * [Super resolution](#super-resolution)
-* [Appendix : Bias](#appendix-bias)
+* [Appendix : Bias](#appendix:bias)
 
 ----
 ## General
@@ -147,7 +147,7 @@ CY Yang, C Ma, MH Yang - European Conference on Computer Vision, 2014 - Springer
 1. [Image super-resolution using deep convolutional networks](https://ieeexplore.ieee.org/abstract/document/7115171/?casa_token=7A74NicgapkAAAAA:nQR1zT5wGbm7IsYZDtY9KuKwGOVJJJK83bxe7VltdshjK7SQ8kReHJMV4Dn0LHXVF6JOWAbenw)
 C Dong, CC Loy, K He, X Tang - IEEE transactions on pattern …, 2015 - ieeexplore.ieee.org - ([Scholar](https://scholar.google.com/scholar?cites=13705212607084119344&as_sdt=2005&sciodt=0,5&hl=de))
 
-## Appendix : Bias 
+## Appendix:Bias 
 
 1. [PDF] [On over-fitting in model selection and subsequent selection bias in performance evaluation](http://www.jmlr.org/papers/volume11/cawley10a/cawley10a.pdf)
 GC Cawley, NLC Talbot - The Journal of Machine Learning Research, 2010 - jmlr.org - ([Scholar](https://scholar.google.com/scholar?cites=10389716229802348282&as_sdt=2005&sciodt=0,5&hl=de))
