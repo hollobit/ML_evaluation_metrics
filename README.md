@@ -8,6 +8,15 @@ The purpose of this repository is providing the curated list of the state-of-the
 * [Prediction](#prediction)
 * [Segmentation](#segmentation)
 * [Deep Generative Model](#Deep-Generative-Model)
+* [Detection](#detection)
+* Regression Metrics 
+* Ranking Metrics 
+* Statistical Metrics 
+* Computer Vision Metrics 
+* NLP Metrics 
+* Deep Learning Related Metrics 
+* [Super resolution](#super-resolution)
+* [Appendix : Bias](#appendix-:-bias)
 
 ----
 ## General
@@ -103,7 +112,7 @@ MSM Sajjadi, O Bachem, M Lucic… - Advances in Neural …, 2018 - papers.nips.c
 1. [Improved precision and recall metric for assessing generative models](https://papers.nips.cc/paper/8648-improved-precision-and-recall-metric-for-assessing-generative-models)
 T Kynkäänniemi, T Karras, S Laine… - Advances in Neural …, 2019 - papers.nips.cc - ([Scholar](https://scholar.google.com/scholar?cites=16244569923752023320&as_sdt=2005&sciodt=0,5&hl=de))
 
-## 6. Detection
+## Detection
 
 1. [What makes for effective detection proposals?](https://ieeexplore.ieee.org/abstract/document/7182356/?casa_token=V_1Ggtq-EAsAAAAA:F1hEU3W065Ha7wWpAdRbOz91y6kQ1frTpDeOQH1HJ2iZc3QYViVf5YGgsWdw0en7wuUS8yDSBQ)
 J Hosang, R Benenson, P Dollár… - IEEE transactions on …, 2015 - ieeexplore.ieee.org - ([Scholar](https://scholar.google.com/scholar?cites=5569442882727355447&as_sdt=2005&sciodt=0,5&hl=de))
@@ -111,23 +120,23 @@ J Hosang, R Benenson, P Dollár… - IEEE transactions on …, 2015 - ieeexplore
 1. [A survey on performance metrics for object-detection algorithms](https://ieeexplore.ieee.org/abstract/document/9145130/?casa_token=VqCY8j9hd9QAAAAA:xoOXxv1rrUJQ3l0Z5qYcI28ii3AEvQRhcPK8eRGPA_nN-JOgO2FjCn5f16QAWBNOanWcb6nAIA)
 R Padilla, SL Netto, EAB da Silva - … International Conference on …, 2020 - ieeexplore.ieee.org - ([Scholar](https://scholar.google.com/scholar?cites=7658252996672799137&as_sdt=2005&sciodt=0,5&hl=de))
 
-## 7. Regression Metrics (MSE, MAE)
+## Regression Metrics (MSE, MAE)
 
-## 8. Ranking Metrics (MRR, DCG, NDCG)
+## Ranking Metrics (MRR, DCG, NDCG)
 - MRR, Precision@ K, DCG & NDCG, MAP, Kendall’s tau, Spearman’s rho
 
 1. [A short introduction to learning to rank](https://search.ieice.org/bin/summary.php?id=e94-d_10_1854)
 H Li - IEICE TRANSACTIONS on Information and Systems, 2011 - search.ieice.org - ([Scholar](https://scholar.google.com/scholar?cites=4788843565114800534&as_sdt=2005&sciodt=0,5&hl=de))
 
-## 9. Statistical Metrics (Correlation)
+## Statistical Metrics (Correlation)
 
-## 10. Computer Vision Metrics (PSNR, SSIM, IoU)
+## Computer Vision Metrics (PSNR, SSIM, IoU)
 
-## 11. NLP Metrics (Perplexity, BLEU score)
+## NLP Metrics (Perplexity, BLEU score)
 
-## 12. Deep Learning Related Metrics (Inception score, Frechet Inception distance)
+## Deep Learning Related Metrics (Inception score, Frechet Inception distance)
 
-## 13. Super resolution 
+## Super resolution 
 
 1. [Deep learning for image super-resolution: A survey](https://ieeexplore.ieee.org/abstract/document/9044873/?casa_token=O1I0fMwCFjcAAAAA:E_zsRo8dmyPGPwliG73-m8xw_cQG7aFtZzQUxnRKQTwOuhl4ctIJPN0HJWnafeR8eaQ1Ekq33g)
 Z Wang, J Chen, SCH Hoi - IEEE Transactions on Pattern …, 2020 - ieeexplore.ieee.org - ([Scholar](https://scholar.google.com/scholar?cites=6779822096297620420&as_sdt=2005&sciodt=0,5&hl=de))
