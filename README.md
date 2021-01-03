@@ -38,10 +38,12 @@ LI Kuncheva - 2014 - books.google.com ([Scholar](https://scholar.google.com/scho
 
 1. [An experimental comparison of performance measures for classification](https://www.sciencedirect.com/science/article/pii/S0167865508002687?casa_token=YQ1dnJNxN9AAAAAA:cxaUyge1WdElPUeIBXmT86LhMpl63dEo4Chc4c7d2BgiM_aPhUC_WfPfb50NXKKfpY0qeipqsA) 
 C Ferri, J Hernández-Orallo, R Modroiu
-Pattern Recognition Letters 30 (1), 27-38 ([Scholar](https://scholar.google.com/scholar?oi=bibs&hl=de&cites=10366092853224402446&as_sdt=5))
+Pattern Recognition Letters 30 (1), 27-38 ([Scholar](https://scholar.google.com/scholar?oi=bibs&hl=de&cites=10366092853224402446&as_sdt=5)) 
+([Semantic](https://www.semanticscholar.org/search?q=An experimental comparison of performance measures for classification))
 
 1. [BUCH] [Evaluating learning algorithms: a classification perspective](https://books.google.com/books?hl=de&lr=&id=VoWIIOKVzR4C&oi=fnd&pg=PR7&ots=5y29WNLBHF&sig=mwWLU008qXnPUozUriBSnULDILU) 
 N Japkowicz, M Shah - 2011 - books.google.com ([Scholar](https://scholar.google.com/scholar?cites=3636688324312842021&as_sdt=2005&sciodt=2005&hl=de))
+([Semantic](https://www.semanticscholar.org/search?q=Evaluating learning algorithms: a classification perspective))
 
 1. [HTML] [A systematic analysis of performance measures for classification tasks](https://www.sciencedirect.com/science/article/pii/S0306457309000259?casa_token=jx63fwbMHJEAAAAA:emqtE9GR1LiaJHwWVzy0F4wA5acuykNyPM9kVJrbwjEPP9i-ugBmg490-L7ETUrLUR5i3x7h0Q) 
 M Sokolova, G Lapalme - Information processing & management, 2009 - Elsevier ([Scholar](https://scholar.google.com/scholar?cites=14636768960278377699&as_sdt=2005&sciodt=2005&hl=de))
