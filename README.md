@@ -24,10 +24,12 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr or send a pu
 ## 1. General
 
 1. [PDF] [Proben1: A set of neural network benchmark problems and benchmarking rules](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.65.8960&rep=rep1&type=pdf) 
-L Prechelt - 1994 - Citeseer ([Scholar](https://scholar.google.com/scholar?cites=14357553191919784879&as_sdt=2005&sciodt=0,5&hl=de))
+L Prechelt - 1994 - Citeseer ([Scholar](https://scholar.google.com/scholar?cites=14357553191919784879&as_sdt=2005&sciodt=0,5&hl=de)) 
+([Semantic](https://www.semanticscholar.org/search?q=AProben1%3A%20A%20set%20of%20neural%20network%20benchmark%20problems%20and%20benchmarking%20rules))
 
 1. [BUCH] [Combining pattern classifiers: methods and algorithms](https://books.google.com/books?hl=de&lr=&id=MZgtBAAAQBAJ&oi=fnd&pg=PR15&ots=2D_1PimT51&sig=KzS1xaWlHxUIwID_1JbG5UvX1Dg) 
 LI Kuncheva - 2014 - books.google.com ([Scholar](https://scholar.google.com/scholar?cites=2093297657971877190&as_sdt=2005&sciodt=0,5&hl=de))
+([Semantic](https://www.semanticscholar.org/search?q=ACombining%20pattern%20classifiers%3A%20methods%20and%20algorithms))
 
 1. [20 Popular Machine Learning Metrics. Part 1: Classification & Regression Evaluation Metrics](https://towardsdatascience.com/20-popular-machine-learning-metrics-part-1-classification-regression-evaluation-metrics-1ca3e282a2ce)
 
@@ -39,11 +41,11 @@ LI Kuncheva - 2014 - books.google.com ([Scholar](https://scholar.google.com/scho
 1. [An experimental comparison of performance measures for classification](https://www.sciencedirect.com/science/article/pii/S0167865508002687?casa_token=YQ1dnJNxN9AAAAAA:cxaUyge1WdElPUeIBXmT86LhMpl63dEo4Chc4c7d2BgiM_aPhUC_WfPfb50NXKKfpY0qeipqsA) 
 C Ferri, J Hernández-Orallo, R Modroiu
 Pattern Recognition Letters 30 (1), 27-38 ([Scholar](https://scholar.google.com/scholar?oi=bibs&hl=de&cites=10366092853224402446&as_sdt=5)) 
-([Semantic](https://www.semanticscholar.org/search?q=An experimental comparison of performance measures for classification))
+([Semantic](https://www.semanticscholar.org/search?q=An%20experimental%20comparison%20of%20performance%20measures%20for%20classification))
 
 1. [BUCH] [Evaluating learning algorithms: a classification perspective](https://books.google.com/books?hl=de&lr=&id=VoWIIOKVzR4C&oi=fnd&pg=PR7&ots=5y29WNLBHF&sig=mwWLU008qXnPUozUriBSnULDILU) 
 N Japkowicz, M Shah - 2011 - books.google.com ([Scholar](https://scholar.google.com/scholar?cites=3636688324312842021&as_sdt=2005&sciodt=2005&hl=de))
-([Semantic](https://www.semanticscholar.org/search?q=Evaluating learning algorithms: a classification perspective))
+([Semantic](https://www.semanticscholar.org/search?q=Evaluating%20learning%20algorithms%3A%20a%20classification%20perspective))
 
 1. [HTML] [A systematic analysis of performance measures for classification tasks](https://www.sciencedirect.com/science/article/pii/S0306457309000259?casa_token=jx63fwbMHJEAAAAA:emqtE9GR1LiaJHwWVzy0F4wA5acuykNyPM9kVJrbwjEPP9i-ugBmg490-L7ETUrLUR5i3x7h0Q) 
 M Sokolova, G Lapalme - Information processing & management, 2009 - Elsevier ([Scholar](https://scholar.google.com/scholar?cites=14636768960278377699&as_sdt=2005&sciodt=2005&hl=de))
