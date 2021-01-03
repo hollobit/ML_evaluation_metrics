@@ -15,7 +15,7 @@ The purpose of this repository is providing the curated list of the state-of-the
 * Computer Vision Metrics 
 * NLP Metrics 
 * Deep Learning Related Metrics 
-* [Super resolution](#super-resolution)
+* [Super resolution](#13-super-resolution)
 * [Appendix : Bias](#appendix--bias)
 
 ----
@@ -31,7 +31,7 @@ LI Kuncheva - 2014 - books.google.com ([Scholar](https://scholar.google.com/scho
 
 1. [20 Popular Machine Learning Metrics. Part 2: Ranking, & Statistical Metrics](https://towardsdatascience.com/20-popular-machine-learning-metrics-part-2-ranking-statistical-metrics-22c3e5a937b6)
 
-## Classification 
+## 1. Classification 
 (accuracy, precision, recall, F1-score, ROC, AUC, …)
 
 1. [An experimental comparison of performance measures for classification](https://www.sciencedirect.com/science/article/pii/S0167865508002687?casa_token=YQ1dnJNxN9AAAAAA:cxaUyge1WdElPUeIBXmT86LhMpl63dEo4Chc4c7d2BgiM_aPhUC_WfPfb50NXKKfpY0qeipqsA) 
