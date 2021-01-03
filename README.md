@@ -3,11 +3,11 @@
 The purpose of this repository is providing the curated list of the state-of-the-art works on the field of ML evaluation metrics.
 
 ## Contents
-* [General](#1.General)
-* [Classification](#2.classification)
+* [General](#General)
+* [Classification](#classification)
 
 ----
-## 1. General
+## General
 
 1. [PDF] [Proben1: A set of neural network benchmark problems and benchmarking rules](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.65.8960&rep=rep1&type=pdf) 
 L Prechelt - 1994 - Citeseer ([Scholar](https://scholar.google.com/scholar?cites=14357553191919784879&as_sdt=2005&sciodt=0,5&hl=de))
@@ -19,7 +19,7 @@ LI Kuncheva - 2014 - books.google.com ([Scholar](https://scholar.google.com/scho
 
 1. [20 Popular Machine Learning Metrics. Part 2: Ranking, & Statistical Metrics](https://towardsdatascience.com/20-popular-machine-learning-metrics-part-2-ranking-statistical-metrics-22c3e5a937b6)
 
-## 2. Classification 
+## Classification 
 (accuracy, precision, recall, F1-score, ROC, AUC, …)
 
 1. [An experimental comparison of performance measures for classification](https://www.sciencedirect.com/science/article/pii/S0167865508002687?casa_token=YQ1dnJNxN9AAAAAA:cxaUyge1WdElPUeIBXmT86LhMpl63dEo4Chc4c7d2BgiM_aPhUC_WfPfb50NXKKfpY0qeipqsA) 
