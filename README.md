@@ -9,12 +9,12 @@ The purpose of this repository is providing the curated list of the state-of-the
 * [4. Segmentation](#4-segmentation)
 * [5. Deep Generative Model](#5-Deep-Generative-Model)
 * [6. Detection](#6-detection)
-* [7. Regression Metrics]()
-* [8. Ranking Metrics]()
-* [9. Statistical Metrics]()
-* [10. Computer Vision Metrics]()
-* [11. NLP Metrics]()
-* [12. Deep Learning Related Metrics]()
+* [7. Regression Metrics](#7-Regression-Metrics)
+* [8. Ranking Metrics](#8-Ranking-Metrics)
+* [9. Statistical Metrics](#9-Statistical-Metrics)
+* [10. Computer Vision Metrics](#10-Computer-Vision-Metrics)
+* [11. NLP Metrics](#11-NLP-Metrics])
+* [12. Deep Learning Related Metrics](#12-Deep-Learning-Related-Metrics)
 * [13. Super resolution](#13-super-resolution)
 * [Appendix : Bias](#appendix--bias)
 
@@ -120,21 +120,26 @@ J Hosang, R Benenson, P Dollár… - IEEE transactions on …, 2015 - ieeexplore
 1. [A survey on performance metrics for object-detection algorithms](https://ieeexplore.ieee.org/abstract/document/9145130/?casa_token=VqCY8j9hd9QAAAAA:xoOXxv1rrUJQ3l0Z5qYcI28ii3AEvQRhcPK8eRGPA_nN-JOgO2FjCn5f16QAWBNOanWcb6nAIA)
 R Padilla, SL Netto, EAB da Silva - … International Conference on …, 2020 - ieeexplore.ieee.org - ([Scholar](https://scholar.google.com/scholar?cites=7658252996672799137&as_sdt=2005&sciodt=0,5&hl=de))
 
-## 7. Regression Metrics (MSE, MAE)
+## 7. Regression Metrics 
+(MSE, MAE)
 
-## 8. Ranking Metrics (MRR, DCG, NDCG)
+## 8. Ranking Metrics 
 - MRR, Precision@ K, DCG & NDCG, MAP, Kendall’s tau, Spearman’s rho
 
 1. [A short introduction to learning to rank](https://search.ieice.org/bin/summary.php?id=e94-d_10_1854)
 H Li - IEICE TRANSACTIONS on Information and Systems, 2011 - search.ieice.org - ([Scholar](https://scholar.google.com/scholar?cites=4788843565114800534&as_sdt=2005&sciodt=0,5&hl=de))
 
-## 9. Statistical Metrics (Correlation)
+## 9. Statistical Metrics 
+(Correlation)
 
-## 10. Computer Vision Metrics (PSNR, SSIM, IoU)
+## 10. Computer Vision Metrics
+(PSNR, SSIM, IoU)
 
-## 11. NLP Metrics (Perplexity, BLEU score)
+## 11. NLP Metrics
+(Perplexity, BLEU score)
 
-## 12. Deep Learning Related Metrics (Inception score, Frechet Inception distance)
+## 12. Deep Learning Related Metrics
+(Inception score, Frechet Inception distance)
 
 ## 13. Super resolution 
 
