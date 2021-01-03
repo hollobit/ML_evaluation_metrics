@@ -9,13 +9,13 @@ The purpose of this repository is providing the curated list of the state-of-the
 ----
 ## General
 
-+ [[PDF]] [Proben1: A set of neural network benchmark problems and benchmarking rules](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.65.8960&rep=rep1&type=pdf) 
+1. [[PDF]] [Proben1: A set of neural network benchmark problems and benchmarking rules](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.65.8960&rep=rep1&type=pdf) 
 L Prechelt - 1994 - Citeseer ([Scholar](https://scholar.google.com/scholar?cites=14357553191919784879&as_sdt=2005&sciodt=0,5&hl=de))
 
-+ [[BUCH]] [Combining pattern classifiers: methods and algorithms](https://books.google.com/books?hl=de&lr=&id=MZgtBAAAQBAJ&oi=fnd&pg=PR15&ots=2D_1PimT51&sig=KzS1xaWlHxUIwID_1JbG5UvX1Dg) 
+1. [[BUCH]] [Combining pattern classifiers: methods and algorithms](https://books.google.com/books?hl=de&lr=&id=MZgtBAAAQBAJ&oi=fnd&pg=PR15&ots=2D_1PimT51&sig=KzS1xaWlHxUIwID_1JbG5UvX1Dg) 
 LI Kuncheva - 2014 - books.google.com ([Scholar](https://scholar.google.com/scholar?cites=2093297657971877190&as_sdt=2005&sciodt=0,5&hl=de))
 
-+ [20 Popular Machine Learning Metrics. Part 1: Classification & Regression Evaluation Metrics](https://towardsdatascience.com/20-popular-machine-learning-metrics-part-1-classification-regression-evaluation-metrics-1ca3e282a2ce)
+1. [20 Popular Machine Learning Metrics. Part 1: Classification & Regression Evaluation Metrics](https://towardsdatascience.com/20-popular-machine-learning-metrics-part-1-classification-regression-evaluation-metrics-1ca3e282a2ce)
 
 + [20 Popular Machine Learning Metrics. Part 2: Ranking, & Statistical Metrics](https://towardsdatascience.com/20-popular-machine-learning-metrics-part-2-ranking-statistical-metrics-22c3e5a937b6)
 
