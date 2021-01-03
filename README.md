@@ -20,7 +20,6 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr or send a pu
 * [13. Super resolution](#13-super-resolution)
 * [Appendix : Bias](#appendix--bias)
 
-https://www.connectedpapers.com/search?q=
 ----
 ## 1. General
 
