@@ -49,6 +49,8 @@ G Jurman, S Riccadonna, C Furlanello - PloS one, 2012 - journals.plos.org - ([Sc
 
 1. [HTML] [Metrics for evaluating 3D medical image segmentation: analysis, selection, and tool  (687)](https://link.springer.com/article/10.1186/s12880-015-0068-x)
 AA Taha, A Hanbury - BMC medical imaging, 2015 - Springer - ([Scholar](https://scholar.google.com/scholar?cites=4630956683170237829&as_sdt=2005&sciodt=0,5&hl=de))
+ 
++ [3차원 의료 영상 분할 평가 지표에 관한 고찰](https://www.ksiim.org/api/society/journal/download/292/3%20ksiim%20%EA%B9%80%EC%9E%A5%EC%9A%B0.pdf), 김장우, 김종효 - Review of Evaluation Metrics for 3D Medical Image Segmentation, 대한의학영상정보학회지 2017년 23권 1호 p.14 ~ 20
 
 1. [A review of recent evaluation methods for image segmentation](https://link.springer.com/article/10.1186/s12880-015-0068-x)
 YJ Zhang - Proceedings of the Sixth International Symposium …, 2001 - ieeexplore.ieee.org - ([Scholar](https://scholar.google.com/scholar?cites=17997590944828043042&as_sdt=2005&sciodt=0,5&hl=de))
@@ -84,5 +86,59 @@ T Heimann, B Van Ginneken, MA Styner… - … on medical imaging, 2009 - ieeexpl
 1. [Medical image segmentation methods, algorithms, and applications](https://www.tandfonline.com/doi/abs/10.1080/02564602.2014.906861)
 A Norouzi, MSM Rahim, A Altameem, T Saba… - IETE Technical …, 2014 - Taylor & Francis - ([Scholar](https://scholar.google.com/scholar?cites=7430648071481519071&as_sdt=2005&sciodt=0,5&hl=de))
 
+
+## 5. Deep Generative Model
+
+1. [An empirical study on evaluation metrics of generative adversarial networks](https://arxiv.org/abs/1806.07755)
+Q Xu, G Huang, Y Yuan, C Guo, Y Sun, F Wu… - arXiv preprint arXiv …, 2018 - arxiv.org - ([Scholar](https://scholar.google.com/scholar?cites=10986270796266305228&as_sdt=2005&sciodt=0,5&hl=de))
+
+1. [Metrics for deep generative models](http://proceedings.mlr.press/v84/chen18e.html)
+N Chen, A Klushyn, R Kurle, X Jiang… - International …, 2018 - proceedings.mlr.press - ([Scholar](https://scholar.google.com/scholar?cites=3501836756714640665&as_sdt=2005&sciodt=2005&hl=de))
+
+1. [Assessing generative models via precision and recall](https://papers.nips.cc/paper/7769-assessing-generative-models-via-precision-and-recall)
+MSM Sajjadi, O Bachem, M Lucic… - Advances in Neural …, 2018 - papers.nips.cc - ([Scholar](https://scholar.google.com/scholar?cites=651893942780229&as_sdt=2005&sciodt=0,5&hl=de))
+
+1. [Improved precision and recall metric for assessing generative models](https://papers.nips.cc/paper/8648-improved-precision-and-recall-metric-for-assessing-generative-models)
+T Kynkäänniemi, T Karras, S Laine… - Advances in Neural …, 2019 - papers.nips.cc - ([Scholar](https://scholar.google.com/scholar?cites=16244569923752023320&as_sdt=2005&sciodt=0,5&hl=de))
+
+## 6. Detection
+
+1. [What makes for effective detection proposals?](https://ieeexplore.ieee.org/abstract/document/7182356/?casa_token=V_1Ggtq-EAsAAAAA:F1hEU3W065Ha7wWpAdRbOz91y6kQ1frTpDeOQH1HJ2iZc3QYViVf5YGgsWdw0en7wuUS8yDSBQ)
+J Hosang, R Benenson, P Dollár… - IEEE transactions on …, 2015 - ieeexplore.ieee.org - ([Scholar](https://scholar.google.com/scholar?cites=5569442882727355447&as_sdt=2005&sciodt=0,5&hl=de))
+
+1. [A survey on performance metrics for object-detection algorithms](https://ieeexplore.ieee.org/abstract/document/9145130/?casa_token=VqCY8j9hd9QAAAAA:xoOXxv1rrUJQ3l0Z5qYcI28ii3AEvQRhcPK8eRGPA_nN-JOgO2FjCn5f16QAWBNOanWcb6nAIA)
+R Padilla, SL Netto, EAB da Silva - … International Conference on …, 2020 - ieeexplore.ieee.org - ([Scholar](https://scholar.google.com/scholar?cites=7658252996672799137&as_sdt=2005&sciodt=0,5&hl=de))
+
+## 7. Regression Metrics (MSE, MAE)
+
+## 8. Ranking Metrics (MRR, DCG, NDCG)
+- MRR, Precision@ K, DCG & NDCG, MAP, Kendall’s tau, Spearman’s rho
+
+1. [A short introduction to learning to rank](https://search.ieice.org/bin/summary.php?id=e94-d_10_1854)
+H Li - IEICE TRANSACTIONS on Information and Systems, 2011 - search.ieice.org - ([Scholar](https://scholar.google.com/scholar?cites=4788843565114800534&as_sdt=2005&sciodt=0,5&hl=de))
+
+## 9. Statistical Metrics (Correlation)
+
+## 10. Computer Vision Metrics (PSNR, SSIM, IoU)
+
+## 11. NLP Metrics (Perplexity, BLEU score)
+
+## 12. Deep Learning Related Metrics (Inception score, Frechet Inception distance)
+
+## 13. Super resolution 
+
+1. [Deep learning for image super-resolution: A survey](https://ieeexplore.ieee.org/abstract/document/9044873/?casa_token=O1I0fMwCFjcAAAAA:E_zsRo8dmyPGPwliG73-m8xw_cQG7aFtZzQUxnRKQTwOuhl4ctIJPN0HJWnafeR8eaQ1Ekq33g)
+Z Wang, J Chen, SCH Hoi - IEEE Transactions on Pattern …, 2020 - ieeexplore.ieee.org - ([Scholar](https://scholar.google.com/scholar?cites=6779822096297620420&as_sdt=2005&sciodt=0,5&hl=de))
+
+1. [Single-image super-resolution: A benchmark](https://link.springer.com/chapter/10.1007/978-3-319-10593-2_25)
+CY Yang, C Ma, MH Yang - European Conference on Computer Vision, 2014 - Springer - ([Scholar](https://scholar.google.com/scholar?cites=7551815978978904049&as_sdt=2005&sciodt=0,5&hl=de))
+
+1. [Image super-resolution using deep convolutional networks](https://ieeexplore.ieee.org/abstract/document/7115171/?casa_token=7A74NicgapkAAAAA:nQR1zT5wGbm7IsYZDtY9KuKwGOVJJJK83bxe7VltdshjK7SQ8kReHJMV4Dn0LHXVF6JOWAbenw)
+C Dong, CC Loy, K He, X Tang - IEEE transactions on pattern …, 2015 - ieeexplore.ieee.org - ([Scholar](https://scholar.google.com/scholar?cites=13705212607084119344&as_sdt=2005&sciodt=0,5&hl=de))
+
+## Appendix : Bias 
+
+1. [PDF] On over-fitting in model selection and subsequent selection bias in performance evaluation
+GC Cawley, NLC Talbot - The Journal of Machine Learning Research, 2010 - jmlr.org - ([Scholar](https://scholar.google.com/scholar?cites=10389716229802348282&as_sdt=2005&sciodt=0,5&hl=de))
 
 
