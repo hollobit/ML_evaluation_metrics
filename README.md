@@ -197,6 +197,10 @@ S Barratt, R Sharma - arXiv preprint arXiv:1801.01973, 2018 - arxiv.org - ([Scho
 ([Semantic](https://www.semanticscholar.org/search?q=A%20Note%20on%20the%20Inception%20Score))
 ([Connected](https://www.connectedpapers.com/search?q=A%20Note%20on%20the%20Inception%20Score))
 
+1. [Analyzing and improving the image quality of stylegan](http://openaccess.thecvf.com/content_CVPR_2020/html/Karras_Analyzing_and_Improving_the_Image_Quality_of_StyleGAN_CVPR_2020_paper.html)
+T Karras, S Laine, M Aittala, J Hellsten… - Proceedings of the …, 2020 - openaccess.thecvf.com - ([Scholar](https://scholar.google.com/scholar?cites=17911154894679089420&as_sdt=2005&sciodt=0,5&hl=en))
+([Semantic](https://www.semanticscholar.org/search?q=Analyzing%20and%20improving%20the%20image%20quality%20of%20stylegan))
+([Connected](https://www.connectedpapers.com/search?q=Analyzing%20and%20improving%20the%20image%20quality%20of%20stylegan))
 
 ## 6. Detection
 
