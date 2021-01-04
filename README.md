@@ -182,6 +182,17 @@ T Kynkäänniemi, T Karras, S Laine… - Advances in Neural …, 2019 - papers.n
 ([Semantic](https://www.semanticscholar.org/search?q=Improved%20precision%20and%20recall%20metric%20for%20assessing%20generative%20models))
 ([Connected](https://www.connectedpapers.com/search?q=Improved%20precision%20and%20recall%20metric%20for%20assessing%20generative%20models))
 
+1. [How good is my GAN?](http://openaccess.thecvf.com/content_ECCV_2018/html/Konstantin_Shmelkov_How_good_is_ECCV_2018_paper.html)
+K Shmelkov, C Schmid… - Proceedings of the …, 2018 - openaccess.thecvf.com - ([Scholar](https://scholar.google.com/scholar?cites=3651026025445957291&as_sdt=2005&sciodt=0,5&hl=en))
+([Semantic](https://www.semanticscholar.org/search?q=How%20good%20is%20my%20GAN%3F))
+([Connected](https://www.connectedpapers.com/search?q=How%20good%20is%20my%20GAN%3F))
+
+1. [HTML] [Pros and cons of gan evaluation measures](https://www.sciencedirect.com/science/article/pii/S1077314218304272?casa_token=rYuPHOiLkqgAAAAA:NEnVWW2OMF5scnke5uRwFtIr_FRHhctcMPpRteD454c4oiuamKJUqhFboYO5TSevjY0Uy7d7Uw)
+A Borji - Computer Vision and Image Understanding, 2019 - Elsevier - ([Scholar](https://scholar.google.com/scholar?cites=10951596134325479546&as_sdt=2005&sciodt=0,5&hl=en))
+([Semantic](https://www.semanticscholar.org/search?q=Pros%20and%20cons%20of%20gan%20evaluation%20measures))
+([Connected](https://www.connectedpapers.com/search?q=Pros%20and%20cons%20of%20gan%20evaluation%20measures))
+
+
 ## 6. Detection
 
 1. [What makes for effective detection proposals?](https://ieeexplore.ieee.org/abstract/document/7182356/?casa_token=V_1Ggtq-EAsAAAAA:F1hEU3W065Ha7wWpAdRbOz91y6kQ1frTpDeOQH1HJ2iZc3QYViVf5YGgsWdw0en7wuUS8yDSBQ)
