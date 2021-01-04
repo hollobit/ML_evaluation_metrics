@@ -81,6 +81,11 @@ J Read, B Pfahringer, G Holmes, E Frank - Machine learning, 2011 - Springer ([Sc
 ([Semantic](https://www.semanticscholar.org/search?q=Classifier%20chains%20for%20multi-label%20classification))
 ([Connected](https://www.connectedpapers.com/search?q=Classifier%20chains%20for%20multi-label%20classification))
 
+1. [A review on multi-label learning algorithms](https://ieeexplore.ieee.org/abstract/document/6471714/?casa_token=WHE-jRcYymoAAAAA:kk1CfFeFrMtkN_2pXDMmiHgD9Xiyb6LHyige-OAuSQBPX5Jh4TxEF8T3LH58jGIKsi4MQ-wJew)
+ML Zhang, ZH Zhou - IEEE transactions on knowledge and …, 2013 - ieeexplore.ieee.org ([Scholar](https://scholar.google.com/scholar?cites=12110830951022031701&as_sdt=2005&sciodt=0,5&hl=en))
+([Semantic](https://www.semanticscholar.org/search?q=A%20review%20on%20multi-label%20learning%20algorithms))
+([Connected](https://www.connectedpapers.com/search?q=A%20review%20on%20multi-label%20learning%20algorithms))
+
 ## 3. Prediction 
 
 1. [A comparison of MCC and CEN error measures in multi-class prediction](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0041882)  
