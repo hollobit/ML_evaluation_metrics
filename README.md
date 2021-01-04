@@ -162,6 +162,31 @@ A Norouzi, MSM Rahim, A Altameem, T Saba… - IETE Technical …, 2014 - Taylor 
 ## 5. Deep Generative Model
 (Inception score, Frechet Inception distance)
 
+1. [Progressive growing of gans for improved quality, stability, and variation](https://arxiv.org/abs/1710.10196)
+T Karras, T Aila, S Laine, J Lehtinen - arXiv preprint arXiv:1710.10196, 2017 - arxiv.org - ([Scholar](https://scholar.google.com/scholar?cites=11486098150916361186&as_sdt=2005&sciodt=0,5&hl=en))
+([Semantic](https://www.semanticscholar.org/search?q=Progressive%20growing%20of%20gans%20for%20improved%20quality%2C%20stability%2C%20and%20variation))
+([Connected](https://www.connectedpapers.com/search?q=Progressive%20growing%20of%20gans%20for%20improved%20quality%2C%20stability%2C%20and%20variation))
+
+1. [Analyzing and improving the image quality of stylegan](http://openaccess.thecvf.com/content_CVPR_2020/html/Karras_Analyzing_and_Improving_the_Image_Quality_of_StyleGAN_CVPR_2020_paper.html)
+T Karras, S Laine, M Aittala, J Hellsten… - Proceedings of the …, 2020 - openaccess.thecvf.com - ([Scholar](https://scholar.google.com/scholar?cites=17911154894679089420&as_sdt=2005&sciodt=0,5&hl=en))
+([Semantic](https://www.semanticscholar.org/search?q=Analyzing%20and%20improving%20the%20image%20quality%20of%20stylegan))
+([Connected](https://www.connectedpapers.com/search?q=Analyzing%20and%20improving%20the%20image%20quality%20of%20stylegan))
+
+1. [How good is my GAN?](http://openaccess.thecvf.com/content_ECCV_2018/html/Konstantin_Shmelkov_How_good_is_ECCV_2018_paper.html)
+K Shmelkov, C Schmid… - Proceedings of the …, 2018 - openaccess.thecvf.com - ([Scholar](https://scholar.google.com/scholar?cites=3651026025445957291&as_sdt=2005&sciodt=0,5&hl=en))
+([Semantic](https://www.semanticscholar.org/search?q=How%20good%20is%20my%20GAN%3F))
+([Connected](https://www.connectedpapers.com/search?q=How%20good%20is%20my%20GAN%3F))
+
+1. [HTML] [Pros and cons of gan evaluation measures](https://www.sciencedirect.com/science/article/pii/S1077314218304272?casa_token=rYuPHOiLkqgAAAAA:NEnVWW2OMF5scnke5uRwFtIr_FRHhctcMPpRteD454c4oiuamKJUqhFboYO5TSevjY0Uy7d7Uw)
+A Borji - Computer Vision and Image Understanding, 2019 - Elsevier - ([Scholar](https://scholar.google.com/scholar?cites=10951596134325479546&as_sdt=2005&sciodt=0,5&hl=en))
+([Semantic](https://www.semanticscholar.org/search?q=Pros%20and%20cons%20of%20gan%20evaluation%20measures))
+([Connected](https://www.connectedpapers.com/search?q=Pros%20and%20cons%20of%20gan%20evaluation%20measures))
+
+1. [A note on the inception score](https://arxiv.org/abs/1801.01973)
+S Barratt, R Sharma - arXiv preprint arXiv:1801.01973, 2018 - arxiv.org - ([Scholar](https://scholar.google.com/scholar?cites=12776354142491821640&as_sdt=2005&sciodt=0,5&hl=en))
+([Semantic](https://www.semanticscholar.org/search?q=A%20Note%20on%20the%20Inception%20Score))
+([Connected](https://www.connectedpapers.com/search?q=A%20Note%20on%20the%20Inception%20Score))
+
 1. [An empirical study on evaluation metrics of generative adversarial networks](https://arxiv.org/abs/1806.07755)
 Q Xu, G Huang, Y Yuan, C Guo, Y Sun, F Wu… - arXiv preprint arXiv …, 2018 - arxiv.org - ([Scholar](https://scholar.google.com/scholar?cites=10986270796266305228&as_sdt=2005&sciodt=0,5&hl=de))
 ([Semantic](https://www.semanticscholar.org/search?q=An%20empirical%20study%20on%20evaluation%20metrics%20of%20generative%20adversarial%20networks))
@@ -182,25 +207,6 @@ T Kynkäänniemi, T Karras, S Laine… - Advances in Neural …, 2019 - papers.n
 ([Semantic](https://www.semanticscholar.org/search?q=Improved%20precision%20and%20recall%20metric%20for%20assessing%20generative%20models))
 ([Connected](https://www.connectedpapers.com/search?q=Improved%20precision%20and%20recall%20metric%20for%20assessing%20generative%20models))
 
-1. [How good is my GAN?](http://openaccess.thecvf.com/content_ECCV_2018/html/Konstantin_Shmelkov_How_good_is_ECCV_2018_paper.html)
-K Shmelkov, C Schmid… - Proceedings of the …, 2018 - openaccess.thecvf.com - ([Scholar](https://scholar.google.com/scholar?cites=3651026025445957291&as_sdt=2005&sciodt=0,5&hl=en))
-([Semantic](https://www.semanticscholar.org/search?q=How%20good%20is%20my%20GAN%3F))
-([Connected](https://www.connectedpapers.com/search?q=How%20good%20is%20my%20GAN%3F))
-
-1. [HTML] [Pros and cons of gan evaluation measures](https://www.sciencedirect.com/science/article/pii/S1077314218304272?casa_token=rYuPHOiLkqgAAAAA:NEnVWW2OMF5scnke5uRwFtIr_FRHhctcMPpRteD454c4oiuamKJUqhFboYO5TSevjY0Uy7d7Uw)
-A Borji - Computer Vision and Image Understanding, 2019 - Elsevier - ([Scholar](https://scholar.google.com/scholar?cites=10951596134325479546&as_sdt=2005&sciodt=0,5&hl=en))
-([Semantic](https://www.semanticscholar.org/search?q=Pros%20and%20cons%20of%20gan%20evaluation%20measures))
-([Connected](https://www.connectedpapers.com/search?q=Pros%20and%20cons%20of%20gan%20evaluation%20measures))
-
-1. [A note on the inception score](https://arxiv.org/abs/1801.01973)
-S Barratt, R Sharma - arXiv preprint arXiv:1801.01973, 2018 - arxiv.org - ([Scholar](https://scholar.google.com/scholar?cites=12776354142491821640&as_sdt=2005&sciodt=0,5&hl=en))
-([Semantic](https://www.semanticscholar.org/search?q=A%20Note%20on%20the%20Inception%20Score))
-([Connected](https://www.connectedpapers.com/search?q=A%20Note%20on%20the%20Inception%20Score))
-
-1. [Analyzing and improving the image quality of stylegan](http://openaccess.thecvf.com/content_CVPR_2020/html/Karras_Analyzing_and_Improving_the_Image_Quality_of_StyleGAN_CVPR_2020_paper.html)
-T Karras, S Laine, M Aittala, J Hellsten… - Proceedings of the …, 2020 - openaccess.thecvf.com - ([Scholar](https://scholar.google.com/scholar?cites=17911154894679089420&as_sdt=2005&sciodt=0,5&hl=en))
-([Semantic](https://www.semanticscholar.org/search?q=Analyzing%20and%20improving%20the%20image%20quality%20of%20stylegan))
-([Connected](https://www.connectedpapers.com/search?q=Analyzing%20and%20improving%20the%20image%20quality%20of%20stylegan))
 
 ## 6. Detection
 
