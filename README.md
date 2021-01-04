@@ -192,6 +192,11 @@ A Borji - Computer Vision and Image Understanding, 2019 - Elsevier - ([Scholar](
 ([Semantic](https://www.semanticscholar.org/search?q=Pros%20and%20cons%20of%20gan%20evaluation%20measures))
 ([Connected](https://www.connectedpapers.com/search?q=Pros%20and%20cons%20of%20gan%20evaluation%20measures))
 
+1. [A note on the inception score](https://arxiv.org/abs/1801.01973)
+S Barratt, R Sharma - arXiv preprint arXiv:1801.01973, 2018 - arxiv.org - ([Scholar](https://scholar.google.com/scholar?cites=12776354142491821640&as_sdt=2005&sciodt=0,5&hl=en))
+([Semantic](https://www.semanticscholar.org/search?q=A%20Note%20on%20the%20Inception%20Score))
+([Connected](https://www.connectedpapers.com/search?q=A%20Note%20on%20the%20Inception%20Score))
+
 
 ## 6. Detection
 
