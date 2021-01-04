@@ -66,6 +66,16 @@ V Labatut, H Cherifi - arXiv preprint arXiv:1112.4133, 2011 - arxiv.org - ([Scho
 ([Semantic](https://www.semanticscholar.org/search?q=Evaluation%20of%20performance%20measures%20for%20classifiers%20comparison))
 ([Connected](https://www.connectedpapers.com/search?q=Evaluation%20of%20performance%20measures%20for%20classifiers%20comparison))
 
+1. [A survey of predictive modeling on imbalanced domains](https://dl.acm.org/doi/abs/10.1145/2907070)
+P Branco, L Torgo, RP Ribeiro - ACM Computing Surveys (CSUR), 2016 - dl.acm.org - ([Scholar](https://scholar.google.com/scholar?cites=5311438450130308166&as_sdt=2005&sciodt=2005&hl=de))
+([Semantic](https://www.semanticscholar.org/search?q=A%20survey%20of%20predictive%20modeling%20on%20imbalanced%20domains))
+([Connected](https://www.connectedpapers.com/search?q=A%20survey%20of%20predictive%20modeling%20on%20imbalanced%20domains))
+
+1. [Multi-label learning by exploiting label dependency](https://dl.acm.org/doi/abs/10.1145/1835804.1835930)
+ML Zhang, K Zhang - Proceedings of the 16th ACM SIGKDD …, 2010 - dl.acm.org - ([Scholar](https://scholar.google.com/scholar?cites=8083909937208756890&as_sdt=2005&sciodt=2005&hl=de))
+([Semantic](https://www.semanticscholar.org/search?q=Multi-label%20learning%20by%20exploiting%20label%20dependency))
+([Connected](https://www.connectedpapers.com/search?q=Multi-label%20learning%20by%20exploiting%20label%20dependency))
+
 ## 3. Prediction 
 
 1. [A comparison of MCC and CEN error measures in multi-class prediction](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0041882)  
