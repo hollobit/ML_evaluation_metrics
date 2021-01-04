@@ -16,8 +16,7 @@ Contributions are welcome. Please contact us at hollobit@etri.re.kr or send a pu
 * [9. Statistical Metrics](#9-Statistical-Metrics)
 * [10. Computer Vision Metrics](#10-Computer-Vision-Metrics)
 * [11. NLP Metrics](#11-NLP-Metrics])
-* [12. Deep Learning Related Metrics](#12-Deep-Learning-Related-Metrics)
-* [13. Super resolution](#13-super-resolution)
+* [12. Super resolution](#13-super-resolution)
 * [Appendix : Bias](#appendix--bias)
 
 ----
@@ -161,6 +160,7 @@ A Norouzi, MSM Rahim, A Altameem, T Saba… - IETE Technical …, 2014 - Taylor 
 ([Connected](https://www.connectedpapers.com/search?q=Medical%20image%20segmentation%20methods%2C%20algorithms%2C%20and%20applications))
 
 ## 5. Deep Generative Model
+(Inception score, Frechet Inception distance)
 
 1. [An empirical study on evaluation metrics of generative adversarial networks](https://arxiv.org/abs/1806.07755)
 Q Xu, G Huang, Y Yuan, C Guo, Y Sun, F Wu… - arXiv preprint arXiv …, 2018 - arxiv.org - ([Scholar](https://scholar.google.com/scholar?cites=10986270796266305228&as_sdt=2005&sciodt=0,5&hl=de))
@@ -230,10 +230,7 @@ H Li - IEICE TRANSACTIONS on Information and Systems, 2011 - search.ieice.org - 
 ## 11. NLP Metrics
 (Perplexity, BLEU score)
 
-## 12. Deep Learning Related Metrics
-(Inception score, Frechet Inception distance)
-
-## 13. Super resolution 
+## 12. Super resolution 
 
 1. [Deep learning for image super-resolution: A survey](https://ieeexplore.ieee.org/abstract/document/9044873/?casa_token=O1I0fMwCFjcAAAAA:E_zsRo8dmyPGPwliG73-m8xw_cQG7aFtZzQUxnRKQTwOuhl4ctIJPN0HJWnafeR8eaQ1Ekq33g)
 Z Wang, J Chen, SCH Hoi - IEEE Transactions on Pattern …, 2020 - ieeexplore.ieee.org - ([Scholar](https://scholar.google.com/scholar?cites=6779822096297620420&as_sdt=2005&sciodt=0,5&hl=de))
