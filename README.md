@@ -76,6 +76,11 @@ ML Zhang, K Zhang - Proceedings of the 16th ACM SIGKDD …, 2010 - dl.acm.org - 
 ([Semantic](https://www.semanticscholar.org/search?q=Multi-label%20learning%20by%20exploiting%20label%20dependency))
 ([Connected](https://www.connectedpapers.com/search?q=Multi-label%20learning%20by%20exploiting%20label%20dependency))
 
+1. [PDF] [Classifier chains for multi-label classification](https://link.springer.com/content/pdf/10.1007/s10994-011-5256-5.pdf)
+J Read, B Pfahringer, G Holmes, E Frank - Machine learning, 2011 - Springer ([Scholar](https://scholar.google.com/scholar?cites=309698754597229208&as_sdt=2005&sciodt=0,5&hl=en))
+([Semantic](https://www.semanticscholar.org/search?q=Classifier%20chains%20for%20multi-label%20classification))
+([Connected](https://www.connectedpapers.com/search?q=Classifier%20chains%20for%20multi-label%20classification))
+
 ## 3. Prediction 
 
 1. [A comparison of MCC and CEN error measures in multi-class prediction](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0041882)  
