@@ -1,4 +1,4 @@
-# Landscape of ML evaluation metrics
+# Landscape of ML/DL evaluation metrics
 
 The purpose of this repository is to provide a curated list of state-of-the-art works in the field of ML/DL evaluation metrics.
 
