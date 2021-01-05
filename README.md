@@ -1,8 +1,14 @@
 # Landscape of ML evaluation metrics
 
-The purpose of this repository is providing the curated list of the state-of-the-art works on the field of ML evaluation metrics.
+The purpose of this repository is to provide a curated list of state-of-the-art works in the field of ML/DL evaluation metrics.
 
-Contributions are welcome. Please contact us at hollobit@etri.re.kr or send a pull request. You can have to add links through pull requests or create an issue which something I missed or need to start a discussion.
+Generally, the metrics are using for measures of quantitative assessment which commonly used for comparing and tracking the performance of the production.
+
+In the case of ML/DL development also, performance evaluation is an important step of the machine learning process. Evaluation metrics are used to measure the quality (include performance) of the machine learning(or deep learning) model in the performance evaluation process.
+
+Most evaluation metrics are tied to machine learning tasks. The choice of evaluation metric completely depends on the type of ML/DL model and the implementation plan of the ML/DL model. There are different metrics for the tasks of classification, regression, ranking, clustering, topic modeling, etc. Some metrics, such as precision-recall, can be useful for multiple tasks. 
+
+Contributions and comments are always welcome. Please contact us at hollobit@etri.re.kr or send a pull request. You can have to add links through pull requests or create an issue which something I missed or need to start a discussion.
 
 ## Contents
 * [1. General](#1-General)
@@ -36,8 +42,13 @@ LI Kuncheva - 2014 - books.google.com ([Scholar](https://scholar.google.com/scho
 
 1. [20 Popular Machine Learning Metrics. Part 2: Ranking, & Statistical Metrics](https://towardsdatascience.com/20-popular-machine-learning-metrics-part-2-ranking-statistical-metrics-22c3e5a937b6)
 
+1. [How to Choose Right Metric for Evaluating ML Model](https://www.kaggle.com/vipulgandhi/how-to-choose-right-metric-for-evaluating-ml-model)
+
+
 ## 2. Classification 
 (accuracy, precision, recall, F1-score, ROC, AUC, …)
+
+1. [24 Evaluation Metrics for Binary Classification (And When to Use Them)](https://neptune.ai/blog/evaluation-metrics-binary-classification)
 
 1. [An experimental comparison of performance measures for classification](https://www.sciencedirect.com/science/article/pii/S0167865508002687?casa_token=YQ1dnJNxN9AAAAAA:cxaUyge1WdElPUeIBXmT86LhMpl63dEo4Chc4c7d2BgiM_aPhUC_WfPfb50NXKKfpY0qeipqsA) 
 C Ferri, J Hernández-Orallo, R Modroiu
