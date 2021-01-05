@@ -2,6 +2,8 @@
 
 The purpose of this repository is to provide a curated list of state-of-the-art works in the field of ML/DL evaluation metrics.
 
+![ML/DL evaluation metrics](/wordcloud1.png)
+
 Generally, the metrics are using for measures of quantitative assessment which commonly used for comparing and tracking the performance of the production.
 
 In the case of ML/DL development also, performance evaluation is an important step of the machine learning process. Evaluation metrics are used to measure the quality (include performance) of the machine learning(or deep learning) model in the performance evaluation process. Using evaluation metrics, various characteristics, and quality (and performance) factors of the ML/DL model can be quantified.
