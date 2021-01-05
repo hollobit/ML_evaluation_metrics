@@ -4,7 +4,7 @@ The purpose of this repository is to provide a curated list of state-of-the-art 
 
 Generally, the metrics are using for measures of quantitative assessment which commonly used for comparing and tracking the performance of the production.
 
-In the case of ML/DL development also, performance evaluation is an important step of the machine learning process. Evaluation metrics are used to measure the quality (include performance) of the machine learning(or deep learning) model in the performance evaluation process.
+In the case of ML/DL development also, performance evaluation is an important step of the machine learning process. Evaluation metrics are used to measure the quality (include performance) of the machine learning(or deep learning) model in the performance evaluation process. Using evaluation metrics, various characteristics, and quality (and performance) factors of the ML/DL model can be quantified.
 
 Most evaluation metrics are tied to machine learning tasks. The choice of evaluation metric completely depends on the type of ML/DL model and the implementation plan of the ML/DL model. There are different metrics for the tasks of classification, regression, ranking, clustering, topic modeling, etc. Some metrics, such as precision-recall, can be useful for multiple tasks. 
 
@@ -220,6 +220,8 @@ T Kynkäänniemi, T Karras, S Laine… - Advances in Neural …, 2019 - papers.n
 
 
 ## 6. Detection
+
+1. [Evaluation Metrics for Object Detection](https://debuggercafe.com/evaluation-metrics-for-object-detection/)
 
 1. [What makes for effective detection proposals?](https://ieeexplore.ieee.org/abstract/document/7182356/?casa_token=V_1Ggtq-EAsAAAAA:F1hEU3W065Ha7wWpAdRbOz91y6kQ1frTpDeOQH1HJ2iZc3QYViVf5YGgsWdw0en7wuUS8yDSBQ)
 J Hosang, R Benenson, P Dollár… - IEEE transactions on …, 2015 - ieeexplore.ieee.org - ([Scholar](https://scholar.google.com/scholar?cites=5569442882727355447&as_sdt=2005&sciodt=0,5&hl=de))
