@@ -239,7 +239,7 @@ R Padilla, SL Netto, EAB da Silva - … International Conference on …, 2020 - 
 (MSE, MAE)
 
 ## 8. Ranking Metrics 
-- MRR, Precision@ K, DCG & NDCG, MAP, Kendall’s tau, Spearman’s rho
+(MRR, Precision@ K, DCG & NDCG, MAP, Kendall’s tau, Spearman’s rho)
 
 1. [A short introduction to learning to rank](https://search.ieice.org/bin/summary.php?id=e94-d_10_1854)
 H Li - IEICE TRANSACTIONS on Information and Systems, 2011 - search.ieice.org - ([Scholar](https://scholar.google.com/scholar?cites=4788843565114800534&as_sdt=2005&sciodt=0,5&hl=de))
@@ -251,6 +251,56 @@ H Li - IEICE TRANSACTIONS on Information and Systems, 2011 - search.ieice.org - 
 
 ## 10. Computer Vision Metrics
 (PSNR, SSIM, IoU)
+
+1. [All image quality metrics you need in one package](https://reposhub.com/python/imagery/andrewekhalel-sewar.html)
+
+1. [A Quick Overview of Methods to Measure the Similarity Between Images](https://medium.com/@datamonsters/a-quick-overview-of-methods-to-measure-the-similarity-between-images-f907166694ee)
+
+1. [Image quality assessment: from error visibility to structural similarity](https://ieeexplore.ieee.org/abstract/document/1284395/)
+Z Wang, AC Bovik, HR Sheikh… - IEEE transactions on …, 2004 - ieeexplore.ieee.org, Cited by 29229 Related articles All 42 versions - ([Scholar](https://scholar.google.com/scholar?cites=3765725703375628854&as_sdt=2005&sciodt=0,5&hl=en))
+([Semantic](https://www.semanticscholar.org/search?q=Image%20quality%20assessment%3A%20from%20error%20visibility%20to%20structural%20similarity))
+([Connected](https://www.connectedpapers.com/search?q=Image%20quality%20assessment%3A%20from%20error%20visibility%20to%20structural%20similarity))
+
+1. [Image quality metrics: PSNR vs. SSIM](https://ieeexplore.ieee.org/abstract/document/5596999/)
+A Hore, D Ziou - 2010 20th international conference on pattern …, 2010 - ieeexplore.ieee.org, Cited by 1438 Related articles All 12 versions -([Scholar](https://scholar.google.com/scholar?cites=114358022031501198&as_sdt=2005&sciodt=0,5&hl=en))
+([Semantic](https://www.semanticscholar.org/search?q=Image%20quality%20metrics%3A%C2%A0PSNR%C2%A0vs.%C2%A0SSIM))
+([Connected](https://www.connectedpapers.com/search?q=Image%20quality%20metrics%3A%C2%A0PSNR%C2%A0vs.%C2%A0SSIM))
+
+1. [Seven challenges in image quality assessment: past, present, and future research](http://downloads.hindawi.com/archive/2013/905685.pdf)
+DM Chandler - International Scholarly Research Notices, 2013 - hindawi.com, Cited by 398 Related articles All 8 versions -([Scholar](https://scholar.google.com/scholar?cites=4463820280655574659&as_sdt=2005&sciodt=0,5&hl=en))
+([Semantic](https://www.semanticscholar.org/search?q=Seven%20challenges%20in%20image%20quality%20assessment%3A%20past%2C%20present%2C%20and%20future%20research))
+([Connected](https://www.connectedpapers.com/search?q=Seven%20challenges%20in%20image%20quality%20assessment%3A%20past%2C%20present%2C%20and%20future%20research))
+
+1. [Full reference image quality assessment based on saliency map analysis](https://www.ingentaconnect.com/content/ist/jist/2010/00000054/00000003/art00009)
+Y Tong, H Konik, F Cheikh… - Journal of Imaging …, 2010 - ingentaconnect.com, Cited by 69 Related articles All 20 versions -([Scholar](https://scholar.google.com/scholar?cites=16037606555445257916&as_sdt=2005&sciodt=0,5&hl=en))
+([Semantic](https://www.semanticscholar.org/search?q=Full%20reference%20image%20quality%20assessment%20based%20on%20saliency%20map%20analysis))
+([Connected](https://www.connectedpapers.com/search?q=Full%20reference%20image%20quality%20assessment%20based%20on%20saliency%20map%20analysis))
+
+1. [PDF] [Metrics performance comparison for color image database](http://www.comlab.uniroma3.it/Marco/Articoli%20Battisti/METRICS%20PERFORMANCE%20COMPARISON%20FOR%20COLOR%20IMAGE%20DATABASE.pdf)
+N Ponomarenko, F Battisti, K Egiazarian… - … workshop on video …, 2009 - comlab.uniroma3.it, Cited by 144 Related articles All 11 versions -([Scholar](https://scholar.google.com/scholar?cites=6139492325250458546&as_sdt=2005&sciodt=0,5&hl=en))
+([Semantic](https://www.semanticscholar.org/search?q=Metrics%20performance%20comparison%20for%20color%20image%20database))
+([Connected](https://www.connectedpapers.com/search?q=Metrics%20performance%20comparison%20for%20color%20image%20database))
+
+1. [PDF] [IEM: a new image enhancement metric for contrast and sharpness measurements](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.403.1008&rep=rep1&type=pdf)
+VL Jaya, R Gopikakumari - International Journal of Computer Applications, 2013 - Citeseer, Cited by 81 Related articles All 2 versions -([Scholar](https://scholar.google.com/scholar?cites=11819913336368910093&as_sdt=2005&sciodt=0,5&hl=en))
+([Semantic](https://www.semanticscholar.org/search?q=IEM%3A%20a%C2%A0new%20image%20enhancement%20metric%C2%A0for%C2%A0contrast%C2%A0and%20sharpness%20measurements))
+([Connected](https://www.connectedpapers.com/search?q=IEM%3A%20a%C2%A0new%20image%20enhancement%20metric%C2%A0for%C2%A0contrast%C2%A0and%20sharpness%20measurements))
+
+1. [Predicting deeper into the future of semantic segmentation](http://openaccess.thecvf.com/content_iccv_2017/html/Luc_Predicting_Deeper_Into_ICCV_2017_paper.html)
+P Luc, N Neverova, C Couprie… - Proceedings of the …, 2017 - openaccess.thecvf.com,  Cited by 164 Related articles All 15 versions -([Scholar](https://scholar.google.com/scholar?cites=12299910231065503543&as_sdt=2005&sciodt=0,5&hl=en))
+([Semantic](https://www.semanticscholar.org/search?q=Predicting%20deeper%20into%20the%20future%20of%20semantic%20segmentation))
+([Connected](https://www.connectedpapers.com/search?q=Predicting%20deeper%20into%20the%20future%20of%20semantic%20segmentation))
+
+1. [A survey on deep learning techniques for image and video semantic segmentation](https://www.sciencedirect.com/science/article/pii/S1568494618302813)
+A Garcia-Garcia, S Orts-Escolano, S Oprea… - Applied Soft …, 2018 - Elsevier,  Cited by 202 Related articles All 4 versions -([Scholar](https://scholar.google.com/scholar?cites=1993179873908817548&as_sdt=2005&sciodt=0,5&hl=en))
+([Semantic](https://www.semanticscholar.org/search?q=A%20survey%20on%20deep%20learning%20techniques%20for%20image%20and%20video%20semantic%20segmentation))
+([Connected](https://www.connectedpapers.com/search?q=A%20survey%20on%20deep%20learning%20techniques%20for%20image%20and%20video%20semantic%20segmentation))
+
+1. [Fsrnet: End-to-end learning face super-resolution with facial priors](http://openaccess.thecvf.com/content_cvpr_2018/html/Chen_FSRNet_End-to-End_Learning_CVPR_2018_paper.html)
+Y Chen, Y Tai, X Liu, C Shen… - Proceedings of the IEEE …, 2018 - openaccess.thecvf.com, Cited by 184 Related articles All 13 versions -([Scholar](https://scholar.google.com/scholar?cites=11045837059104237071&as_sdt=2005&sciodt=0,5&hl=en))
+([Semantic](https://www.semanticscholar.org/search?q=Fsrnet%3A%20End-to-end%20learning%20face%20super-resolution%20with%20facial%20priors))
+([Connected](https://www.connectedpapers.com/search?q=Fsrnet%3A%20End-to-end%20learning%20face%20super-resolution%20with%20facial%20priors))
+
 
 ## 11. NLP Metrics
 (Perplexity, BLEU score)
