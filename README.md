@@ -30,6 +30,8 @@ Contributions and comments are always welcome. Please contact us at hollobit@etr
 ----
 ## 1. General
 
+1. [ISO/IEC 4213:2022](https://github.com/hollobit/ML_evaluation_metrics) Information technology — Artificial intelligence — Assessment of machine learning classification performance
+
 1. [PDF] [Proben1: A set of neural network benchmark problems and benchmarking rules](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.65.8960&rep=rep1&type=pdf) 
 L Prechelt - 1994 - Citeseer ([Scholar](https://scholar.google.com/scholar?cites=14357553191919784879&as_sdt=2005&sciodt=0,5&hl=de)) 
 ([Semantic](https://www.semanticscholar.org/search?q=Proben1%3A%20A%20set%20of%20neural%20network%20benchmark%20problems%20and%20benchmarking%20rules))
@@ -107,6 +109,8 @@ G Jurman, S Riccadonna, C Furlanello - PloS one, 2012 - journals.plos.org - ([Sc
 
 ## 4. Segmentation 
 
+1. [ISO/IEC DIS 16466](https://www.iso.org/standard/84599.html) Information Technology - 3D Printing and scanning - Assessment methods of 3D scanned data for 3D printing model
+   
 1. [http://www.visceral.eu/resources/evaluatesegmentation-software/](http://www.visceral.eu/resources/evaluatesegmentation-software/)
 
 1. [HTML] [Metrics for evaluating 3D medical image segmentation: analysis, selection, and tool](https://link.springer.com/article/10.1186/s12880-015-0068-x)
@@ -304,6 +308,9 @@ Y Chen, Y Tai, X Liu, C Shen… - Proceedings of the IEEE …, 2018 - opena
 
 ## 11. NLP Metrics
 (Perplexity, BLEU score)
+
+1. [ISO/IEC AWI 23282](https://www.iso.org/standard/87387.html) Artificial Intelligence - Evaluation methods for accurate natural language processing systems
+
 
 ## 12. Super resolution 
 
