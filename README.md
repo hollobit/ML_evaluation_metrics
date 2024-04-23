@@ -30,8 +30,6 @@ Contributions and comments are always welcome. Please contact us at hollobit@etr
 ----
 ## 1. General
 
-1. [ISO/IEC 4213:2022](https://github.com/hollobit/ML_evaluation_metrics) Information technology — Artificial intelligence — Assessment of machine learning classification performance
-
 1. [PDF] [Proben1: A set of neural network benchmark problems and benchmarking rules](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.65.8960&rep=rep1&type=pdf) 
 L Prechelt - 1994 - Citeseer ([Scholar](https://scholar.google.com/scholar?cites=14357553191919784879&as_sdt=2005&sciodt=0,5&hl=de)) 
 ([Semantic](https://www.semanticscholar.org/search?q=Proben1%3A%20A%20set%20of%20neural%20network%20benchmark%20problems%20and%20benchmarking%20rules))
@@ -51,6 +49,8 @@ LI Kuncheva - 2014 - books.google.com ([Scholar](https://scholar.google.com/scho
 
 ## 2. Classification 
 (accuracy, precision, recall, F1-score, ROC, AUC, …)
+
+1. [ISO/IEC 4213:2022](https://github.com/hollobit/ML_evaluation_metrics) Information technology — Artificial intelligence — Assessment of machine learning classification performance
 
 1. [24 Evaluation Metrics for Binary Classification (And When to Use Them)](https://neptune.ai/blog/evaluation-metrics-binary-classification)
 
